@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "image": "./images/blaze.png",
+      "summary": "卓球クラブHP",
+      "title": "Blaze",
+      "siteLink": "https://hamada-blaze.netlify.app",
+      "githubLink": "https://github.com/chihiro1010/blaze",
+      "tech": "HTML,CSS",
+      "lastUpdateDate": "2023/11/25"
+    },
+    {
+      "image": "./images/asmaster.png",
+      "summary": "セルフASMR",
+      "title": "ASMasteR",
+      "siteLink": "https://asmaster.netlify.app",
+      "githubLink": "https://github.com/chihiro1010/asmaster",
+      "tech": "HTML,CSS,JavaScript",
+      "lastUpdateDate": "2023/11/22"
+    },
+    {
+      "image": "./images/co_archive.png",
+      "summary": "写真ポートフォリオ",
+      "title": "CO archive",
+      "siteLink": "https://co-archive.netlify.app",
+      "githubLink": "https://github.com/chihiro1010/gatsby-my-portfolio",
+      "tech": "JavaScript, Gatsby.js",
+      "lastUpdateDate": "2020/3/30"
+    },
+    {
+      "image": "./images/co_web.png",
+      "summary": "webポートフォリオ",
+      "title": "CO web",
+      "siteLink": "https://co-web.netlify.app",
+      "githubLink": "",
+      "tech": "JavaScript,React.js",
+      "lastUpdateDate": "2023/12/5"
+    }
+  ],
+  "profile": {
+    "image": "./images/profile.png",
+    "name": "大場 千宏",
+    "residence": "島根県",
+    "birthday": "1997/10"
+  }
+}

@@ -1,25 +1,34 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import Item from "./components/Item";
+import Profile from "./components/Profile";
+import itemData from "./itemData.json";
 
 function App() {
+  const itemsData = itemData.items,
+    profileData = itemData.profile;
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Profile
+        image={profileData.image}
+        name={profileData.name}
+        residence={profileData.residence}
+        birthday={profileData.birthday}
+      ></Profile>
+      {itemsData.map((item) => (
+        <Item
+          key={item.title}
+          siteLink={item.siteLink}
+          image={item.image}
+          summary={item.summary}
+          title={item.title}
+          tech={item.tech}
+          lastUpdateDate={item.lastUpdateDate}
+          githubLink={item.githubLink}
+          className="items"
+        ></Item>
+      ))}
     </div>
   );
 }
-
 export default App;
