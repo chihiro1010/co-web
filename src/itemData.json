@@ -31,8 +31,8 @@
       "image": "./images/co_web.png",
       "summary": "webポートフォリオ",
       "title": "CO web",
-      "siteLink": "https://co-web.netlify.app",
-      "githubLink": "",
+      "siteLink": "https://co-web-portfolio.netlify.app",
+      "githubLink": "https://github.com/chihiro1010/co-web",
       "tech": "JavaScript,React.js",
       "lastUpdateDate": "2023/12/5"
     }
