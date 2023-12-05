@@ -24,7 +24,7 @@
       "title": "CO archive",
       "siteLink": "https://co-archive.netlify.app",
       "githubLink": "https://github.com/chihiro1010/gatsby-my-portfolio",
-      "tech": "JavaScript, Gatsby.js",
+      "tech": "Gatsby.js",
       "lastUpdateDate": "2020/3/30"
     },
     {
@@ -33,8 +33,8 @@
       "title": "CO web",
       "siteLink": "https://co-web-portfolio.netlify.app",
       "githubLink": "https://github.com/chihiro1010/co-web",
-      "tech": "JavaScript,React.js",
-      "lastUpdateDate": "2023/12/5"
+      "tech": "React.js",
+      "lastUpdateDate": "2023/12/6"
     }
   ],
   "profile": {
