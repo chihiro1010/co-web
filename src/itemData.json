@@ -35,6 +35,15 @@
       "githubLink": "https://github.com/chihiro1010/co-web",
       "tech": "React.js",
       "lastUpdateDate": "2023/12/6"
+    },
+    {
+      "image": "./images/gomoku.png",
+      "summary": "web五目並べ",
+      "title": "gomoku(制作途中)",
+      "siteLink": "https://gomoku-narabe.vercel.app",
+      "githubLink": "https://github.com/chihiro1010/gomoku",
+      "tech": "Next.js, TypeScript, TailwindCSS",
+      "lastUpdateDate": "2023/12/10"
     }
   ],
   "profile": {
