@@ -37,11 +37,11 @@
       "lastUpdateDate": "2023/12/6"
     },
     {
-      "image": "./images/gomoku.png",
-      "summary": "web五目並べ",
-      "title": "gomoku(制作途中)",
-      "siteLink": "https://gomoku-narabe.vercel.app",
-      "githubLink": "https://github.com/chihiro1010/gomoku",
+      "image": "./images/goban.png",
+      "summary": "web碁盤",
+      "title": "goban",
+      "siteLink": "https://goban.vercel.app",
+      "githubLink": "https://github.com/chihiro1010/goban",
       "tech": "Next.js, TypeScript, TailwindCSS",
       "lastUpdateDate": "2023/12/10"
     }
