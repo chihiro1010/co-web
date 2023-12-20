@@ -42,8 +42,17 @@
       "title": "goban",
       "siteLink": "https://goban.vercel.app",
       "githubLink": "https://github.com/chihiro1010/goban",
-      "tech": "Next.js, TypeScript, TailwindCSS",
+      "tech": "Next.js(React.js), TypeScript, TailwindCSS",
       "lastUpdateDate": "2023/12/10"
+    },
+    {
+      "image": "./images/memotube.png",
+      "summary": "※制作中※ Youtube用メモ",
+      "title": "MemoTube",
+      "siteLink": "https://memotube.pages.div",
+      "githubLink": "https://github.com/chihiro1010/memotube",
+      "tech": "Nuxt.js(Vue.js), JypeScript, TailwindCSS",
+      "lastUpdateDate": "2023/12/20"
     }
   ],
   "profile": {
