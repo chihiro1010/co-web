@@ -44,14 +44,13 @@ a {
 }
 .link-card.expanded {
   height: auto;
-  border-radius: 30px;
 }
 
 .image {
   width: 200px;
   height: 200px;
   margin-top: 50px;
-  border-radius: 50%;
+  border-radius: 10%;
 }
 
 .subject {

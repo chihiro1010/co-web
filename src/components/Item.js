@@ -54,8 +54,9 @@ const Item = (props) => {
           >
             詳細 ▼
           </button>
-        ) : null}
-        {detailHandler()}
+        ) : (
+          detailHandler()
+        )}
       </div>
     </>
   );
