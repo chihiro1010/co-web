@@ -54,6 +54,15 @@
       "tech": "Nuxt.js(Vue.js), JypeScript, TailwindCSS",
       "lastUpdateDate": "2023/12/20"
     }
+    {
+      "image": "./images/coffrec.png",
+      "summary": "※制作中※ ドッリプ記録",
+      "title": "COFFREC",
+      "siteLink": "https://coffrec.pages.dev",
+      "githubLink": "https://github.com/chihiro1010/coffrec",
+      "tech": "TypeScript, React, Redux, TailwindCSS",
+      "lastUpdateDate": "2024/1/15"
+    }
   ],
   "profile": {
     "image": "./images/profile.png",
