@@ -10,15 +10,6 @@
       "lastUpdateDate": "2023/11/25"
     },
     {
-      "image": "./images/asmaster.png",
-      "summary": "セルフASMR",
-      "title": "ASMasteR",
-      "siteLink": "https://asmaster.netlify.app",
-      "githubLink": "https://github.com/chihiro1010/asmaster",
-      "tech": "HTML,CSS,JavaScript",
-      "lastUpdateDate": "2023/11/22"
-    },
-    {
       "image": "./images/co_archive.png",
       "summary": "写真ポートフォリオ",
       "title": "CO archive",
@@ -56,7 +47,7 @@
     },
     {
       "image": "./images/coffrec.png",
-      "summary": "※制作中※ ドッリプ記録",
+      "summary": "※制作中※ 珈琲ドッリプログ",
       "title": "COFFREC",
       "siteLink": "https://coffrec.pages.dev",
       "githubLink": "https://github.com/chihiro1010/coffrec",
