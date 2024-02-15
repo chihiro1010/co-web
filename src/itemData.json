@@ -38,7 +38,7 @@
     },
     {
       "image": "./images/memotube.png",
-      "summary": "※制作中※ Youtube用メモ",
+      "summary": "Youtube用メモ",
       "title": "MemoTube",
       "siteLink": "https://memotube.pages.dev",
       "githubLink": "https://github.com/chihiro1010/memotube",
@@ -47,12 +47,12 @@
     },
     {
       "image": "./images/coffrec.png",
-      "summary": "※制作中※ 珈琲ドッリプログ",
+      "summary": "珈琲ドッリプログ",
       "title": "COFFREC",
       "siteLink": "https://coffrec.pages.dev",
       "githubLink": "https://github.com/chihiro1010/coffrec",
-      "tech": "TypeScript, React, Redux, TailwindCSS",
-      "lastUpdateDate": "2024/2/7"
+      "tech": "TypeScript, React, Redux(Toolkit), TailwindCSS, Vite",
+      "lastUpdateDate": "2024/2/15"
     }
   ],
   "profile": {
