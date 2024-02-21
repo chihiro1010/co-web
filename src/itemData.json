@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "image": "./images/coffrec.png",
+      "summary": "珈琲ドッリプログ",
+      "title": "COFFREC",
+      "siteLink": "https://coffrec.pages.dev",
+      "githubLink": "https://github.com/chihiro1010/coffrec",
+      "tech": "TypeScript, React, Redux(Toolkit), TailwindCSS, Vite",
+      "lastUpdateDate": "2024/2/21"
+    },
+    {
+      "image": "./images/memotube.png",
+      "summary": "Youtube用メモ",
+      "title": "MemoTube",
+      "siteLink": "https://memotube.pages.dev",
+      "githubLink": "https://github.com/chihiro1010/memotube",
+      "tech": "Nuxt.js(Vue.js), JypeScript, TailwindCSS",
+      "lastUpdateDate": "2023/12/20"
+    },
+    {
       "image": "./images/blaze.png",
       "summary": "卓球クラブHP",
       "title": "Blaze",
@@ -8,6 +26,15 @@
       "githubLink": "https://github.com/chihiro1010/blaze",
       "tech": "HTML,CSS",
       "lastUpdateDate": "2023/11/25"
+    },
+    {
+      "image": "./images/goban.png",
+      "summary": "web碁盤",
+      "title": "goban",
+      "siteLink": "https://goban.vercel.app",
+      "githubLink": "https://github.com/chihiro1010/goban",
+      "tech": "Next.js(React.js), TypeScript, TailwindCSS",
+      "lastUpdateDate": "2023/12/10"
     },
     {
       "image": "./images/co_archive.png",
@@ -20,39 +47,12 @@
     },
     {
       "image": "./images/co_web.png",
-      "summary": "webポートフォリオ",
+      "summary": "webポートフォリオ(当サイト)",
       "title": "CO web",
       "siteLink": "https://co-web-portfolio.netlify.app",
       "githubLink": "https://github.com/chihiro1010/co-web",
       "tech": "React.js",
       "lastUpdateDate": "2023/12/6"
-    },
-    {
-      "image": "./images/goban.png",
-      "summary": "web碁盤",
-      "title": "goban",
-      "siteLink": "https://goban.vercel.app",
-      "githubLink": "https://github.com/chihiro1010/goban",
-      "tech": "Next.js(React.js), TypeScript, TailwindCSS",
-      "lastUpdateDate": "2023/12/10"
-    },
-    {
-      "image": "./images/memotube.png",
-      "summary": "Youtube用メモ",
-      "title": "MemoTube",
-      "siteLink": "https://memotube.pages.dev",
-      "githubLink": "https://github.com/chihiro1010/memotube",
-      "tech": "Nuxt.js(Vue.js), JypeScript, TailwindCSS",
-      "lastUpdateDate": "2023/12/20"
-    },
-    {
-      "image": "./images/coffrec.png",
-      "summary": "珈琲ドッリプログ",
-      "title": "COFFREC",
-      "siteLink": "https://coffrec.pages.dev",
-      "githubLink": "https://github.com/chihiro1010/coffrec",
-      "tech": "TypeScript, React, Redux(Toolkit), TailwindCSS, Vite",
-      "lastUpdateDate": "2024/2/15"
     }
   ],
   "profile": {
