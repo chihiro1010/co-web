@@ -6,8 +6,8 @@
       "title": "COFFREC",
       "siteLink": "https://coffrec.pages.dev",
       "githubLink": "https://github.com/chihiro1010/coffrec",
-      "tech": "TypeScript, React, Redux(Toolkit), TailwindCSS, Vite",
-      "lastUpdateDate": "2024/2/22"
+      "tech": "TypeScript, React, Redux(Toolkit), Vite, TailwindCSS, IndexedDB(Dexie.js)",
+      "lastUpdateDate": "2024/2/26"
     },
     {
       "image": "./images/memotube.png",
