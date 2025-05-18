@@ -1,8 +1,18 @@
 {
   "items": [
     {
+      "image": "./images/mamelog.png",
+      "summary": "コーヒー豆管理メモ",
+      "title": "まめログ",
+      "siteLink": "https://mamelog-84649.web.app",
+      "githubLink": "https://github.com/chihiro1010/mamelog",
+      "tech": "TypeScript, Next.js, Firebase",
+      "lastUpdateDate": "2025/5/18"
+    },
+
+    {
       "image": "./images/coffrec.png",
-      "summary": "珈琲ドッリプログ",
+      "summary": "コーヒードッリプログ",
       "title": "COFFREC",
       "siteLink": "https://coffrec.pages.dev",
       "githubLink": "https://github.com/chihiro1010/coffrec",
